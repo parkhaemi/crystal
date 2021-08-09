@@ -705,11 +705,11 @@ footer ul li .copyright {
   display: block;
   margin-top: 20px;
 }
-footer .box {
+/* footer .box {
   padding: 150px 0;
   background: url(../img/bottom_bg.jpg) no-repeat center/cover;
   margin-top: 80px;
-}
+} */
 footer .box h2 {
   color: #fff;
   font-size: 22px;
