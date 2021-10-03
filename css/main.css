@@ -486,7 +486,7 @@ section.premium {
   margin: 40px auto;
   padding: 100px 0;
   box-sizing: border-box;
-  height: 1020px;
+  height: 700px;
   background: url(../img/con2_bg.jpg) no-repeat center/cover;
   position: relative;
 }
@@ -546,7 +546,7 @@ section.premium .title a:focus:before {
 section.premium .banner li {
   position: absolute;
   box-shadow: 5px 6px 15px rgba(3, 3, 3, 0.4);
-  width: 15%;
+  width: 20%;
 }
 section.premium .banner li img {
   width: 100%;
