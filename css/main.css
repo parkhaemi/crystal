@@ -483,7 +483,7 @@ section.about .inner ul li:nth-child(3) {
 /*section.premium*/
 section.premium {
   width: 95%;
-  margin: 40px auto;
+  margin: 100px auto;
   padding: 100px 0;
   box-sizing: border-box;
   height: 700px;
@@ -579,8 +579,8 @@ section.premium .banner li:nth-child(1) {
 /*section.global*/
 section.global {
   width: 95%;
-  margin: 40px auto 0;
-  padding: 40px 0;
+  margin: 200px auto 0;
+  padding: 100px 0;
   text-align: center;
   position: relative;
 }
